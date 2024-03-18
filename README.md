@@ -1,2 +1,3 @@
-# Notes-taker
-This is the project which I had done for the practice of frontend development.
+# Notes-Taker-Vanila-JS
+
+My site is live at https://sujaljp.github.io/Notes-Taker-Vanila-JS-/
